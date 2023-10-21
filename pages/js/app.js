@@ -1,5 +1,3 @@
-console.log("hello");
-
 let formData = document.querySelector("form");
 
 let address = document.getElementById("para1");
